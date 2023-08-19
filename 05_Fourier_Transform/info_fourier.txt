@@ -1,0 +1,2 @@
+When evaluating this notebook, rename fourier.py to another name before grading.
+If not, the fourier.py that won't be the student one.
